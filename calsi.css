@@ -1,0 +1,39 @@
+
+table{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+    background: yellow;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 2px 2px 2px 2px #dadac8;
+    
+}
+
+#input{
+    padding: 5px;
+    height: 50px;
+    font-size: 24px;
+   /* // width: 250px; */
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    text-align: right;
+    box-shadow: 2px 2px 2px 2px #aaaa7f inset;
+}
+
+button{
+    margin: 2px;
+     width: 60px;
+     height: 30px;
+     border: none;
+     border-radius: 5px;
+     box-shadow: 2px 2px 2px 2px #d0d008;
+}
